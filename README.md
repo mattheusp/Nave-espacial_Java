@@ -2,7 +2,7 @@
 
 Este é um jogo de nave espacial desenvolvido em Java. O objetivo do jogo é pilotar uma nave espacial e destruir inimigos enquanto desvia de obstáculos. O jogo é executado em uma janela gráfica e utiliza os recursos gráficos e de áudio da biblioteca JavaFX.
 
-![Tumbnail](assets/tumbnail-nave-espacial-github.png)
+![Tumbnail](/assets/thumb.png)
 
 ## Funcionalidades :video_game:
 
